@@ -1,7 +1,7 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="492" tvg-name="TV Publica" tvg-logo="https://cdn.m3u.cl/logo/492_TV_Publica.png", TV Publica | AR
+#EXTINF:-1 tvg-id="TV Publica" tvg-name="TV Publica" tvg-logo="https://cdn.m3u.cl/logo/492_TV_Publica.png", TV Publica | AR
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
-#EXTINF:-1, ARGENTINA:America HD www.achoAPPS.com
+#EXTINF:-1 tvg-id="America TV" tvg-name="America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG", America HD | AR
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="285" tvg-name="Net TV" tvg-logo="https://cdn.m3u.cl/logo/285_Net_TV.png", Net TV | AR
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
@@ -29,13 +29,13 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
 #EXTINF:-1 tvg-id="1361" tvg-name="La Nacion+" tvg-logo="https://cdn.m3u.cl/logo/1361_La_Nacion_.png", La Nacion+ | AR
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8?PlaylistM3UCL
-#EXTINF:-1, ESPN
+#EXTINF:-1 ESPN
 http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1, ESPN 2
+#EXTINF:-1 ESPN 2
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1, Fox Sports Racing
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1, Flow Sports
+#EXTINF:-1 Flow Sports
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1 tvg-id="1100" tvg-name="DEPORTV" tvg-logo="https://cdn.m3u.cl/logo/1100_DEPORTV.png", DEPORTV | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
